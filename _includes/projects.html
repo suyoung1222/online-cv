@@ -19,6 +19,8 @@
   {% for project in projects.assignments %}
     <div class="item">
 
+      <h3 class="project-title">{{ experience.role }}</h3>
+<!--
       <span class="project-title">
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
@@ -26,7 +28,7 @@
         {{ project.title }}
         {% endif %}
       </span>
-
+-->
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
