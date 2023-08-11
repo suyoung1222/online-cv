@@ -18,12 +18,11 @@
 
   {% for publication in publications.papers %}
   <div class="item">
-    <!-- {% if publication.link %}
-      <h3 class="project-title">{{ project.title }} <a href="{{ publication.link }}" target="_blank">PDF</a> </h3>
+    {% if publication.link %}
+      <h3 class="publication-title" href="{{ publication.link }}">{{ publication.title }} </h3>
     {% else %}
-      <h3 class="project-title">{{ project.title }}</h3>
-    {% endif %} -->
-    <h3 class="project-title">{{ project.title }}</h3>
+    <h3 class="publication-title"></h3>{{ publication.title }} </h3>
+    {% endif %}
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
