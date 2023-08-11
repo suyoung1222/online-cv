@@ -148,7 +148,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: "Linear Four-Point LiDAR SLAM for Manhattan World Environments"
-        link: "#"
+        #link: "#"
         authors: Eunju Jeong, Jina Lee, Suyoung Kang, Pyojin Kim*
         conference: RA-L with ICRA, 2023
 
@@ -158,12 +158,12 @@ publications:
         conference: ICCAS, 2022
 
       - title: "Astrobee ISS Free-Flyer Datasets for Space Intra-Vehicular Robot Navigation Research"
-        link: "#"
+        #link: "#"
         authors: Andres Mora Vargas, Marina Moreira, Kathryn Hamilton, Ruben Garcia, Maria Bualat, Trey Smith, Jonathan Barlow, Jose Benavides, Eunju Jeong, and Pyojin Kim*
         conference: under review for RA-L ICRA, 2023
 
       - title: "Complex-Motion NeRF: Joint Reconstruction and Pose Optimization with Motion and Depth Priors"
-        link: "#"
+        #link: "#"
         authors: Hyunjin Kim, Daekyeong Lee, \textbf{Suyoung Kang}, Pyojin Kim*
         conference: under review for IEEE Access, 2023
 
