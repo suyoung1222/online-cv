@@ -77,7 +77,7 @@ experiences:
         details: |
           Researching 3D computer vision, machine perception for robotics and automation in
           Machine Perception and Intelligence Lab.
-          
+
       - role: Undergraduate Student Researcher
         time: Sep, 2023 - present
         company: Gwangju Institute of Science and Technology GIST
@@ -159,7 +159,7 @@ publications:
       - title: "Linear Four-Point LiDAR SLAM for Manhattan World Environments"
         link: "https://ieeexplore.ieee.org/document/10250905"
         authors: Eunju Jeong, Jina Lee, Suyoung Kang, Pyojin Kim*
-        conference: RA-L with ICRA, 2023
+        conference: IEEE Robotics and Automation Letters (RA-L), 2023
 
       - title: "Parsing Indoor Manhattan Scenes Using Four-Point LiDAR on a Micro UAV"
         link: "https://mpil.sookmyung.ac.kr/wp-content/uploads/2022/12/2022_ICCAS_Jeong.pdf"
@@ -169,7 +169,7 @@ publications:
       - title: "Astrobee ISS Free-Flyer Datasets for Space Intra-Vehicular Robot Navigation Research"
         link: "https://mpil-310c.github.io/"
         authors: Suyoung Kang, Ryan Soussan, Daekyeong Lee, Brian Coltin, Andres Mora Vargas, Marina Moreira, Kathryn Hamilton, Ruben Garcia, Maria Bualat, Trey Smith, Jonathan Barlow, Jose Benavides, Eunju Jeong, and Pyojin Kim*
-        conference: under review for RA-L ICRA, 2023
+        conference: under review for RA-L, 2023
 
       - title: "Complex-Motion NeRF: Joint Reconstruction and Pose Optimization with Motion and Depth Priors"
         #link: "#"
