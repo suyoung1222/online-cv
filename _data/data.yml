@@ -82,9 +82,11 @@ experiences:
       - role: Undergraduate Student Researcher
         time: Sep, 2023 - present
         company: Gwangju Institute of Science and Technology GIST
+        link: "https://mpil-gist.github.io/"
         details: |
           Researching 3D computer vision, machine perception for robotics and automation in
           Machine Perception and Intelligence Lab.
+        
 
  
 
