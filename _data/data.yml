@@ -70,7 +70,7 @@ education:
 
 experiences:
     title: Experiences
-    info:
+    - info:
       - role: Undergraduate Student Researcher
         time: Dec, 2021 - Aug, 2023
         company: Sookmyung Women's University
@@ -78,7 +78,7 @@ experiences:
           Researching 3D computer vision, machine perception for robotics and automation in
           Machine Perception and Intelligence Lab.
 
-    info:
+    - info:
       - role: Undergraduate Student Researcher
         time: Sep, 2023 - present
         company: Gwangju Institute of Science and Technology GIST
