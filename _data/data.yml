@@ -169,12 +169,12 @@ publications:
       - title: "Astrobee ISS Free-Flyer Datasets for Space Intra-Vehicular Robot Navigation Research"
         link: "https://mpil-310c.github.io/"
         authors: Suyoung Kang, Ryan Soussan, Daekyeong Lee, Brian Coltin, Andres Mora Vargas, Marina Moreira, Kathryn Hamilton, Ruben Garcia, Maria Bualat, Trey Smith, Jonathan Barlow, Jose Benavides, Eunju Jeong, and Pyojin Kim*
-        conference: under review for RA-L, 2023
+        conference: under review IEEE Robotics and Automation Letters (RA-L), 2023
 
       - title: "Complex-Motion NeRF: Joint Reconstruction and Pose Optimization with Motion and Depth Priors"
-        #link: "#"
+        link: "https://ieeexplore.ieee.org/document/10244034"
         authors: Hyunjin Kim, Daekyeong Lee, Suyoung Kang, Pyojin Kim*
-        conference: under review for IEEE Access, 2023
+        conference: IEEE Access, 2023
 
 
 
