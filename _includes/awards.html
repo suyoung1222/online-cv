@@ -24,11 +24,7 @@
           </span>
         <div class="time">{{ award.time }}</div>
       </div><!--//upper-row-->
-      {% if award.link %}
-      <div class="company"><a href="{{ award.link }}" target="_blank">{{ award.company }}</a></div>
-      {% else %}
       <div class="company">{{ award.company }}</div>
-      {% endif %}
     </div><!--//meta-->
 
     {% if award.details %}
