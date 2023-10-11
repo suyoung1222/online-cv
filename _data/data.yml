@@ -45,7 +45,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 3D Computer Vision for Robotics
+        - item: 3D Computer Vision
           link:
 
         - item: Simultaneous Localization and Mapping (SLAM)
@@ -157,7 +157,7 @@ publications:
 
 
 projects:
-    title: Awards
+    title: Projects
     intro: >
 
     assignments:
