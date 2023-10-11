@@ -1,13 +1,13 @@
 {% assign awards = site.data.data.awards %}
 {% if awards %}
 <section class="section award-section">
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ awards.title }}
-  </h2>
+    <h2 class="section-title">
+        <span class="fa-stack fa-xs">
+          <i class="fas fa-circle fa-stack-2x"></i>
+          <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+        </span>
+        {{ awards.title }}
+      </h2>
 
   {% for award in awards.info %}
   <div class="item">
@@ -15,7 +15,13 @@
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="award-title">{{ award.role }}</h3>
+        <span class="award-title">
+            {% if award.link %}
+            <li><a href="{{ award.link }}" target="_blank">{{ award.role }}</a></li>
+            {% else %}
+            <li>{{ award.role }}</li>
+            {% endif %}
+          </span>
         <div class="time">{{ award.time }}</div>
       </div><!--//upper-row-->
       {% if award.link %}
