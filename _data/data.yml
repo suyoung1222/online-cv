@@ -130,8 +130,34 @@ experiences:
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
 
+publications:
+    title: Publications
+    intro: |
+      
+    papers:
+      - title: "Astrobee ISS Free-Flyer Datasets for Space Intra-Vehicular Robot Navigation Research"
+        link: "https://mpil-310c.github.io/"
+        authors: Suyoung Kang, Ryan Soussan, Daekyeong Lee, Brian Coltin, Andres Mora Vargas, Marina Moreira, Kathryn Hamilton, Ruben Garcia, Maria Bualat, Trey Smith, Jonathan Barlow, Jose Benavides, Eunju Jeong, and Pyojin Kim*
+        conference: under review IEEE Robotics and Automation Letters (RA-L), 2023
+
+      - title: "Linear Four-Point LiDAR SLAM for Manhattan World Environments"
+        link: "https://ieeexplore.ieee.org/document/10250905"
+        authors: Eunju Jeong, Jina Lee, Suyoung Kang, Pyojin Kim*
+        conference: IEEE Robotics and Automation Letters (RA-L), 2023
+
+      - title: "Complex-Motion NeRF: Joint Reconstruction and Pose Optimization with Motion and Depth Priors"
+        link: "https://ieeexplore.ieee.org/document/10244034"
+        authors: Hyunjin Kim, Daekyeong Lee, Suyoung Kang, Pyojin Kim*
+        conference: IEEE Access, 2023
+
+      - title: "Parsing Indoor Manhattan Scenes Using Four-Point LiDAR on a Micro UAV"
+        link: "https://mpil.sookmyung.ac.kr/wp-content/uploads/2022/12/2022_ICCAS_Jeong.pdf"
+        authors: Eunju Jeong, Suyoung Kang, Daekyeong Lee, Pyojin Kim*
+        conference: ICCAS, 2022
+
+
 projects:
-    title: Projects
+    title: Awards
     intro: >
 
     assignments:
@@ -151,32 +177,29 @@ projects:
         link: 
         tagline: "Measure the side slip angle of the vehicle using VIO to test how cheap and accurate it is compared to the previous methods."
 
-publications:
-    title: Publications
-    intro: |
-      
-    papers:
-      - title: "Linear Four-Point LiDAR SLAM for Manhattan World Environments"
-        link: "https://ieeexplore.ieee.org/document/10250905"
-        authors: Eunju Jeong, Jina Lee, Suyoung Kang, Pyojin Kim*
-        conference: IEEE Robotics and Automation Letters (RA-L), 2023
+awards:
+    title: Awards
+    info:
+      - title: X-Corps+ Competition, Silver Prize
+        time: Nov, 2022
+        company: Ministry of Science and ICT & National Research Foundation of Korea
+        link: "https://xcorpsplus.com/images/sub/poster/images/1-5.jpg"
+        details: |
+          Structural feature-based 3D mapping of micro-drone using four single-point LiDARs for indoor environments
 
-      - title: "Parsing Indoor Manhattan Scenes Using Four-Point LiDAR on a Micro UAV"
-        link: "https://mpil.sookmyung.ac.kr/wp-content/uploads/2022/12/2022_ICCAS_Jeong.pdf"
-        authors: Eunju Jeong, Suyoung Kang, Daekyeong Lee, Pyojin Kim*
-        conference: ICCAS, 2022
-
-      - title: "Astrobee ISS Free-Flyer Datasets for Space Intra-Vehicular Robot Navigation Research"
-        link: "https://mpil-310c.github.io/"
-        authors: Suyoung Kang, Ryan Soussan, Daekyeong Lee, Brian Coltin, Andres Mora Vargas, Marina Moreira, Kathryn Hamilton, Ruben Garcia, Maria Bualat, Trey Smith, Jonathan Barlow, Jose Benavides, Eunju Jeong, and Pyojin Kim*
-        conference: under review IEEE Robotics and Automation Letters (RA-L), 2023
-
-      - title: "Complex-Motion NeRF: Joint Reconstruction and Pose Optimization with Motion and Depth Priors"
-        link: "https://ieeexplore.ieee.org/document/10244034"
-        authors: Hyunjin Kim, Daekyeong Lee, Suyoung Kang, Pyojin Kim*
-        conference: IEEE Access, 2023
-
-
+      - title: Capstone Design Competition, Grand Prize
+        time: Jan, 2022
+        company: Sookmyung Women's University
+        #link: "https://mpil-gist.github.io/"
+        details: |
+          Voice recognition-based medicine storage boxes for the visually impaired
+        
+      - title: Capstone Design Competition for Engineering Majors(MEIT), Second Prize
+        time: Aug, 2021
+        company: Sookmyung Women's University
+        #link: "https://mpil-gist.github.io/"
+        details: |
+          Cigarette packs to help smokers reduce the amount of smoking based on Arduino and Android App.
 
 
 
