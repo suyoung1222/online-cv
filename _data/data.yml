@@ -180,21 +180,21 @@ projects:
 awards:
     title: Awards
     info:
-      - title: X-Corps+ Competition, Silver Prize
+      - role: X-Corps+ Competition, Silver Prize
         time: Nov, 2022
         company: Ministry of Science and ICT & National Research Foundation of Korea
         link: "https://xcorpsplus.com/images/sub/poster/images/1-5.jpg"
         details: |
           Structural feature-based 3D mapping of micro-drone using four single-point LiDARs for indoor environments
 
-      - title: Capstone Design Competition, Grand Prize
+      - role: Capstone Design Competition, Grand Prize
         time: Jan, 2022
         company: Sookmyung Women's University
         #link: "https://mpil-gist.github.io/"
         details: |
           Voice recognition-based medicine storage boxes for the visually impaired
         
-      - title: Capstone Design Competition for Engineering Majors(MEIT), Second Prize
+      - role: Capstone Design Competition for Engineering Majors(MEIT), Second Prize
         time: Aug, 2021
         company: Sookmyung Women's University
         #link: "https://mpil-gist.github.io/"
