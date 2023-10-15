@@ -45,13 +45,16 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 3D Computer Vision
+        - item: Spatial Computing
           link:
 
-        - item: Simultaneous Localization and Mapping (SLAM)
+        - item: 3D Scene Understanding
           link:
 
-        - item: Visual Navigation
+        - item: Deep Learning for Navigation
+          link:
+        
+        - item: Sensor Fusion
           link:
 
 
