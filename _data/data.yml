@@ -141,7 +141,7 @@ publications:
       - title: "Astrobee ISS Free-Flyer Datasets for Space Intra-Vehicular Robot Navigation Research"
         link: "https://mpil-310c.github.io/"
         authors: Suyoung Kang, Ryan Soussan, Daekyeong Lee, Brian Coltin, Andres Mora Vargas, Marina Moreira, Kathryn Hamilton, Ruben Garcia, Maria Bualat, Trey Smith, Jonathan Barlow, Jose Benavides, Eunju Jeong, and Pyojin Kim*
-        conference: under review IEEE Robotics and Automation Letters (RA-L), 2023
+        conference: (minor revision) IEEE Robotics and Automation Letters (RA-L), 2023
 
       - title: "Linear Four-Point LiDAR SLAM for Manhattan World Environments"
         link: "https://ieeexplore.ieee.org/document/10250905"
