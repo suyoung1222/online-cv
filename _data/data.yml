@@ -186,26 +186,34 @@ publications:
 awards:
     title: Awards
     info:
-      - role: X-Corps+ Competition, Silver Prize
-        time: Nov, 2022
-        company: Ministry of Science and ICT & National Research Foundation of Korea
-        link: "https://youtu.be/pfAYKNwPV7c"
+      - role: World Creative Robot Contest, Korea Institute for Robot Industry Advancement Award
+        time: Nov, 2023
+        # company: Ministry of Science and ICT & National Research Foundation of Korea
+        # link: "https://youtu.be/pfAYKNwPV7c"
         details: |
-          Structural feature-based 3D mapping of micro-drone using four single-point LiDARs for indoor environments
 
-      - role: Capstone Design Competition, Grand Prize
+      - role: X-Corps+ Competition, Silver Prize Awarded by Ministry of Science and ICT & National Research Foundation of Korea
+        time: Nov, 2022
+        # company: Ministry of Science and ICT & National Research Foundation of Korea
+        link: "https://youtu.be/pfAYKNwPV7c"
+        details: | # Structural feature-based 3D mapping of micro-drone using four single-point LiDARs for indoor environments
+          
+
+      - role: SMU Capstone Design Competition, Grand Prize
         time: Jan, 2022
-        company: Sookmyung Women's University
+        # company: Sookmyung Women's University
         #link: "https://mpil-gist.github.io/"
-        details: |
-          Voice recognition-based medicine storage boxes for the visually impaired
+        details: | # Voice recognition-based medicine storage boxes for the visually impaired
+          
         
-      - role: Capstone Design Competition for Engineering Majors(MEIT), Second Prize
+      - role: SMU Capstone Design Competition for Engineering Majors (MEIT), Vice-Chancellor Award
         time: Aug, 2021
-        company: Sookmyung Women's University
+        # company: Sookmyung Women's University
         link: "https://youtu.be/K24Aj08uljs"
-        details: |
-          Cigarette packs to help smokers reduce the amount of smoking based on Arduino and Android App.
+        details: |  # Cigarette packs to help smokers reduce the amount of smoking based on Arduino and Android App.
+         
+
+
 
 
 Patents:
