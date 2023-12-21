@@ -208,6 +208,15 @@ awards:
           Cigarette packs to help smokers reduce the amount of smoking based on Arduino and Android App.
 
 
+Patents:
+    title: Patents
+    intro: |
+    papers:
+      - title: "Urban air mobility aerial wireless charging system with magnetic resonance charging method"
+        authors: Suyoung Kang, J Kim, T Kim, J Shin, E Lee
+        conference: KR 10-2023-0039529, patent application
+
+
 
 skills:
     title: Skills &amp; Proficiency
