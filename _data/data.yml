@@ -72,8 +72,7 @@ education:
 
 experiences:
     title: Experiences
-    info: |
-
+    info:
       - role: Undergraduate Student Researcher
         time: Dec, 2021 - present
         company: Machine Perception and Intelligence Lab (MPIL)
