@@ -75,12 +75,12 @@ education:
 experiences:
     title: Experiences
     info:
-      # - role: Undergraduate Student Researcher
-      #   time: Dec, 2021 - Aug, 2023
-      #   company: Sookmyung Women's University
-      #   details: |
-      #     Researching 3D computer vision, machine perception for robotics and automation in
-      #     Machine Perception and Intelligence Lab.
+      - role: Undergraduate Student Researcher
+        time: Dec, 2021 - Aug, 2023
+        company: Sookmyung Women's University
+        details: |
+          Researching 3D computer vision, machine perception for robotics and automation in
+          Machine Perception and Intelligence Lab.
 
       - role: Undergraduate Student Researcher
         time: Dec, 2021 - present
