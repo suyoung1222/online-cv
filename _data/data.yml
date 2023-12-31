@@ -61,33 +61,33 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      My research interest is Visual Odometry (VO), Simultaneous Localization and Mapping (SLAM), Structure-from-Motion, Visual Navigation, and 3D Computer Vision for Robotics
+      My research interest includes Visual Odometry (VO), Simultaneous Localization and Mapping (SLAM), Structure-from-Motion, Visual Navigation, and 3D Computer Vision for Robotics
 education:
     title: Education
     info:
       - degree: BSc in Electroncis Engineering
         university: Sookmyung Women's University
         time: 2019 - 2024
-        details: |
+        details: | 
+        GPA 4.04/4.3
 
 
 experiences:
     title: Experiences
     info:
-      - role: Undergraduate Student Researcher
-        time: Dec, 2021 - Aug, 2023
-        company: Sookmyung Women's University
-        details: |
-          Researching 3D computer vision, machine perception for robotics and automation in
-          Machine Perception and Intelligence Lab.
+      # - role: Undergraduate Student Researcher
+      #   time: Dec, 2021 - Aug, 2023
+      #   company: Sookmyung Women's University
+      #   details: |
+      #     Researching 3D computer vision, machine perception for robotics and automation in
+      #     Machine Perception and Intelligence Lab.
 
       - role: Undergraduate Student Researcher
-        time: Sep, 2023 - present
-        company: Gwangju Institute of Science and Technology GIST
+        time: Dec, 2021 - present
+        company: Machine Perception and Intelligence Lab (MPIL)
         link: "https://mpil-gist.github.io/"
         details: |
-          Researching 3D computer vision, machine perception for robotics and automation in
-          Machine Perception and Intelligence Lab.
+          Participated in research related to 3D computer vision and machine perception for robotics and automation as a member of the Machine Perception and Intelligence Lab.
         
 
  
@@ -240,7 +240,7 @@ skills:
         level: 90%
 
       - name: Docker
-        level: 85%
+        level: 75%
 
 
 footer: >
